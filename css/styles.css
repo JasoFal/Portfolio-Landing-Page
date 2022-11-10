@@ -1,0 +1,15 @@
+.head {
+  float: left;
+}
+
+.about-me {
+  text-align: left;
+}
+
+.center {
+  float: center;
+}
+
+img {
+  float: right;
+}
