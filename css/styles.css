@@ -5,6 +5,7 @@
   padding: 5px 5px 5px 5px;
   border: 3px solid rgb(0, 255, 248, .6);
   background-color: rgb(0, 255, 248, .3);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .about-me {
@@ -13,6 +14,7 @@
   margin: 10px 10px 5px 5px;
   border: 3px solid rgb(255, 0, 7, .6);
   background-color: rgb(255, 0, 7, .3);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .sidebar {
@@ -20,6 +22,7 @@
   padding: 4px 4px 4px 4px;
   background-color: rgb(134, 255, 0, .3);
   text-align: left;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 img {
@@ -38,5 +41,11 @@ img {
 
 .title-2 {
   background-color: rgb(255, 0, 7, .6);
+}
+
+.favorite-things {
+  color: #961EE1;
+  font-style: italic;
+  font-size: 20px;
 }
  
