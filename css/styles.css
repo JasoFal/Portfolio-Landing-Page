@@ -2,26 +2,41 @@
   float: left;
   margin-bottom: 50px;
   margin-top: 20px;
-  padding: 5px 5px 5px 5px
-  border
+  padding: 5px 5px 5px 5px;
+  border: 3px solid rgb(0, 255, 248, .6);
+  background-color: rgb(0, 255, 248, .3);
 }
 
 .about-me {
   text-align: left;
   padding: 10px 10px 10px 10px;
   margin: 10px 10px 5px 5px;
-  border: 3px solid rgb(255, 0, 7, 0.6);
+  border: 3px solid rgb(255, 0, 7, .6);
   background-color: rgb(255, 0, 7, .3);
 }
 
-.center {
-  float: center;
+.sidebar {
+  border: 3px solid rgb(134, 255, 0, .6);
+  padding: 4px 4px 4px 4px;
+  background-color: rgb(134, 255, 0, .3);
+  text-align: left;
 }
 
 img {
   float: right;
+  border: 2px dotted rgb(0, 255, 248, .6);
+}
+
+.title-sidebar {
+  margin-bottom: 20px;
+  background-color: rgb(134, 255, 0, .6);
+}
+
+.title-1 {
+  background-color: rgb(0, 255, 248, .5);
 }
 
 .title-2 {
-  background-color: rgb(255, 0, 7, 0.6);
+  background-color: rgb(255, 0, 7, .6);
 }
+ 
