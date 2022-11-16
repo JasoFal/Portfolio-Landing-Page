@@ -30,7 +30,7 @@ _This website links together various projects from previous lessons._
 ## Known Bugs
 
 * _No known bugs._
-* _When you click on the X in far top right of the screen it closes browser instantly._
+* _When you click on the X in far top right of the screen it closes the browser instantly._
 
 ## License
 
